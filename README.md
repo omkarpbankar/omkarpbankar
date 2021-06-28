@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently learing Python and Data Science. 
 - 🌱 I’m also learning Magnetic Memomry Method from Dr. Anthony Metivier.
-- 👯 I’m looking to collaborate with other people who has samilar interest.
+- 👯 I’m looking to collaborate with other people who has similar interest.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and cook the food.
 
