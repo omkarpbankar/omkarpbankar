@@ -19,6 +19,9 @@
 
 ### Languages and Tools:
 <img align="left" alt="python" width="26px" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-python-logo.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://i0.wp.com/www.disk91.com/wp-content/uploads/2018/02/mongodb-1.png?fit=413%2C484&ssl=1" />
+<img align="left" alt="Postman" width="26px" src="https://miro.medium.com/max/512/1*fVBL9mtLJmHIH6YpU7WvHQ.png" />
+<img align="left" alt="Flask" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYnGbZ5Lcns7WrroKY20GscsELfC5CFSq8fW0tcjbnQrana8CWP5m3FU8Bjcj6yl1gEWw&usqp=CAU" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
