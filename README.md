@@ -1,6 +1,6 @@
 ### Hi there, I'm Omkar  👋
 
-## I'm a Sun, Husband, Father, Mechanical Engineer, Coder, and have a love for Maths and English!!
+## I'm a Son, Husband, Father, Mechanical Engineer, Coder, and have a love for Maths and English!!
 
 - 🔭 I'm currently learing Python and Data Science. 
 - 🌱 I’m also learning Magnetic Memomry Method from Dr. Anthony Metivier.
